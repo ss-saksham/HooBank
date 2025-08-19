@@ -1,12 +1,42 @@
-# React + Vite
+# HooBank
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern banking app landing page designed to showcase financial services, features, and client testimonials—all built with React and deployed on Netlify.
 
-Currently, two official plugins are available:
+##  Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live site: https://hoobankingonline.netlify.app/
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Features
+
+- Intuitive, responsive layout with sections like Home, Features, Product, Clients
+- Eye-catching hero banner: "The Next Generation Payment Method"
+- Highlighted key stats:
+  - 3,800+ active users
+  - 230+ trusted companies
+  - $230M+ in transactions  
+- Trust-building features like **Rewards**, **100% Secured**, **Balance Transfer**
+- “Easily control your billing & invoicing” section
+- Client testimonials from fictional leaders to add authenticity
+- Quick "Get Started" calls to action throughout the page
+- Footer with Useful Links, Community, Partner sections, and social media icons  
+  :contentReference[oaicite:0]{index=0}
+
+---
+
+##  Tech Stack
+
+- **Framework**: React (likely bootstrapped with Vite or Create React App)
+- **Styling**: Tailwind CSS (based on visual cues from the original template) or a similar utility-first library
+- **Deployment**: Hosted on Netlify (automatic builds and previews enabled)  
+  :contentReference[oaicite:1]{index=1}
+
+---
+
+##  Installation & Local Setup
+
+1. **Clone the repo:**
+   ```bash
+   git clone <your-repo-url>
+   cd <repo-folder>
