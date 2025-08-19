@@ -5,6 +5,12 @@ A sleek, modern banking app landing page designed to showcase financial services
 ##  Demo
 
 Check it live here: https://hoobankingonline.netlify.app/
+<p align="center">
+  <a href="https://hoobankingonline.netlify.app/">
+    <img src="./Home.jpg" alt="Homepage Screenshot" width="600"/>
+  </a>
+</p>
+
 
 ---
 
