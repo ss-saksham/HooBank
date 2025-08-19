@@ -1,4 +1,6 @@
-# HooBank
+<p align="center">
+  <img src="./homepage.png" alt="Homepage Banner" width="100%"/>
+</p>
 
 A sleek, modern banking app landing page designed to showcase financial services, features, and client testimonials—all built with React and deployed on Netlify.
 
